@@ -1,0 +1,1322 @@
+[{
+    "name": "白宫",
+    "name_en_abbr": "The White House",
+    "description": "白宫是美国总统的官邸与主要办公的地方。",
+    "image_url":"static/data/farmework/白宫办公厅.jpg",
+    "structure": [
+        {
+            "name": "白宫办公厅",
+            "name_en_abbr": "The White House Office",
+            "description": "白宫办公厅既是美国总统处理日常工作的办事机构，又是汇总情况、拟定方案以备决策的机构。",
+            "image_url":"static/data/farmework/白宫办公厅.png",
+            "structure": []
+        },
+        {
+            "name": "国家安全委员会",
+            "name_en_abbr": "NSC",
+            "description": "国家安全委员会是由美国总统主持的最高级别国家安全及外交事务决策机构。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "经济顾问委员会",
+            "name_en_abbr": "CEA",
+            "description": "经济顾问委员会由一组经济学家组成并为美国总统提供相关咨询，它为白宫提供了大量的经济政策。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "环境质量委员会",
+            "name_en_abbr": "CEQ",
+            "description": "环境质量委员会负责协调联邦政府改善、维护和保护美国公共健康和环境的努力。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "国家太空委员会",
+            "name_en_abbr": "NSpC",
+            "description": "国家太空委员会作为政策制定办公室运作，处理一系列民事、商业、国家安全和国际太空政策事务。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "行政办公室",
+            "name_en_abbr": "OA",
+            "description": "行政办公室是美国总统行政办公室内的一个实体，负责监督整个行政办公室的一般行政工作。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "行政管理和预算局",
+            "name_en_abbr": "OMB",
+            "description": "行政管理和预算局是美国总统维持对联邦政府财政计划控制的机关。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "国家药物管制政策办公室",
+            "name_en_abbr": "ONDCP",
+            "description": "国家药物管制政策办公室领导和协调国家毒品政策，负责制定和实施国家毒品控制战略和预算。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "科技政策办公室",
+            "name_en_abbr": "OSTP",
+            "description": "科技政策办公室为美国总统提供相关咨询，它为白宫提供了大量的科技政策。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "美国贸易代表办公室",
+            "name_en_abbr": "USTR",
+            "description": "美国贸易代表办公室负责在双边和多边的层面上推行美国的贸易政策。",
+            "image_url":"static/data/farmework/美国总统行政办公室.png",
+            "structure": []
+        },
+        {
+            "name": "国务院",
+            "name_en_abbr": "",
+            "description": "美国国务院是美国联邦政府负责外交事务的行政部门，等同于世界各国的外交部。",
+            "image_url":"static/data/farmework/国务院.png",
+            "structure": []
+        },
+        {
+            "name": "财政部",
+            "name_en_abbr": "",
+            "description": "美国财政部负责管理美国政府的收入及美国的金融、货币、经济、贸易和税收。",
+            "image_url":"static/data/farmework/财政部.png",
+            "structure": []
+        },
+        {
+            "name": "国防部",
+            "name_en_abbr": "DOD",
+            "description": "美国国防部是美国联邦行政部门之一，主要负责统合国防与陆海空军",
+            "image_url":"static/data/farmework/国防部.png",
+            "structure": []
+        },
+        {
+            "name": "司法部",
+            "name_en_abbr": "",
+            "description": "美国司法部负责保障法律的施行、维护美国政府的法律利益、保障法律对美国所有公民平等和打击国内或跨国的犯罪等。",
+            "image_url":"static/data/farmework/司法部.png",
+            "structure": []
+        },
+        {
+            "name": "内政部",
+            "name_en_abbr": "DOI",
+            "description": "美国内政部管理联邦政府土地、自然资源的开采和保护，领土及与太平洋岛国的事务。",
+            "image_url":"static/data/farmework/内政部.png",
+            "structure": []
+        },
+        {
+            "name": "农业部",
+            "name_en_abbr": "USDA",
+            "description": "美国农业部是美国联邦政府的一个行政部门，负责执行有关农业、林业、农村经济发展和粮食的行政事务。",
+            "image_url":"static/data/farmework/农业部.png",
+            "structure": []
+        },
+        {
+            "name": "商务部",
+            "name_en_abbr": "",
+            "description": "美国商务部是美国联邦行政部门之一，负责国际贸易、出口管制、贸易救济措施等。",
+            "image_url":"static/data/farmework/商务部.png",
+            "structure": []
+        },
+        {
+            "name": "劳工部",
+            "name_en_abbr": "",
+            "description": "美国劳工部是美国联邦政府行政部门之一，主管全国劳工事务，成立于1913年3月4日。",
+            "image_url":"static/data/farmework/劳工部.png",
+            "structure": []
+        },
+        {
+            "name": "卫生与公众服务部",
+            "name_en_abbr": "HHS",
+            "description": "美国卫生与公众服务部是维护美国人民健康，提供公众服务的联邦政府行政部门。",
+            "image_url":"static/data/farmework/卫生与公众服务部.png",
+            "structure": []
+        },
+        {
+            "name": "住房与城市发展部",
+            "name_en_abbr": "HUD",
+            "description": "美国住房与城市发展部为美国内阁部门之一，负责制定与执行有关住宅及都市规划之政策。",
+            "image_url":"static/data/farmework/住房与城市发展部.png",
+            "structure": []
+        },
+        {
+            "name": "运输部",
+            "name_en_abbr": "DOT",
+            "description": "美国运输部是美国联邦政府的交通行政部门。",
+            "image_url":"static/data/farmework/运输部.png",
+            "structure": []
+        },
+        {
+            "name": "能源部",
+            "name_en_abbr": "DOE",
+            "description": "美国能源部负责促进美国能源政策的制定和实施。",
+            "image_url":"static/data/farmework/能源部.png",
+            "structure": []
+        },
+        {
+            "name": "教育部",
+            "name_en_abbr": "",
+            "description": "美国教育部是美国联邦政府主管教育事务的行政部门。",
+            "image_url":"static/data/farmework/教育部.png",
+            "structure": []
+        },
+        {
+            "name": "退伍军人事务部",
+            "name_en_abbr": "VA",
+            "description": "美国退伍军人事务部成立于1989年，是为美国退伍军人及家属提供服务的联邦政府内阁部门。",
+            "image_url":"static/data/farmework/退伍军人事务部.png",
+            "structure": []
+        },
+        {
+            "name": "国土安全部",
+            "name_en_abbr": "DHS",
+            "description": "美国国土安全部负责美国内政事务，包括境内的边境管制、情报统筹、紧急应变、防止恐怖活动以及移民事务等。",
+            "image_url":"static/data/farmework/国土安全部.png",
+            "structure": []
+        }
+    ]
+},
+    {
+        "name": "副总统办公室",
+        "name_en_abbr": "Office of the VP",
+        "description": "副总统专属办公室",
+        "structure": [
+            {
+                "name": "幕僚长",
+                "name_en_abbr": "Chief of Staff",
+                "description": "负责管理副总统的日常事务和行政活动。",
+                "structure": [] ,
+                "image_url":"static/data/farmework/白宫办公厅.png"
+            },
+            {
+                "name": "国家安全顾问",
+                "name_en_abbr": "",
+                "description": "提供国家安全和外交政策的建议。",
+                "structure": [] ,
+                "image_url":"static/data/farmework/白宫办公厅.png"
+            },
+            {
+                "name": "政策顾问",
+                "name_en_abbr": "",
+                "description": "协助副总统在经济、能源、教育等领域的政策制定。",
+                "structure": [] ,
+                "image_url":"static/data/farmework/白宫办公厅.png"
+            },
+            {
+                "name": "新闻秘书和传播团队",
+                "name_en_abbr": "",
+                "description": "负责副总统的媒体关系和公共事务。",
+                "structure": [] ,
+                "image_url":"static/data/farmework/白宫办公厅.png"
+            }
+        ] ,
+        "image_url":"static/data/farmework/白宫办公厅.png"
+    },
+    {
+        "name": "政府效率部",
+        "name_en_abbr": "DOGE",
+        "description": "美国政府效率部是唐纳德·特朗普政府拟成立的部门，和马斯克多次力挺的加密货币“狗狗币”同名。 美国政府效率部不属于正式的联邦政府机构，只能在政府外部提供意见与指导，并与白宫以及管理和预算办公室合作。",
+        "structure": [] ,
+        "image_url":"static/data/farmework/政府效率部.png"
+    },
+    {
+        "name": "国土安全部",
+        "name_en_abbr": "DHS",
+        "description": "国土安全部负责美国内政事务，包括境内的边境管制、情报统筹、紧急应变、防止恐怖活动以及移民事务等。",
+        "image_url": "static/data/farmework/美国国土安全部.png",
+        "structure": [
+            {
+                "name": "美国公民及移民服务局",
+                "name_en_abbr": "USCIS",
+                "description": "美国公民及移民服务局是负责监督美国合法移民的联邦机构。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "美国海岸警卫队",
+                "name_en_abbr": "USCG",
+                "description": "美国海岸警卫队是国土安全部下属唯一的军事组织，负责保护海洋经济和环境、保卫海上边界并拯救那些处于危险中的人们。",
+                "image_url": "static/data/farmework/美国海岸警卫队.png",
+                "structure": []
+            },
+            {
+                "name": "美国海关和边境保护局",
+                "name_en_abbr": "CBP",
+                "description": "美国海关及边境保卫局负责阻止恐怖分子及其武器进入美国，还负责确保和促进贸易和旅行，并执行移民法和毒品法等法规。",
+                "image_url": "static/data/farmework/美国海关和边境保护局.png",
+                "structure": []
+            },
+            {
+                "name": "网络安全和基础设施安全局",
+                "name_en_abbr": "CISA",
+                "description": "网络安全和基础设施安全局引领国家努力了解、管理和降低网络和物理基础设施的风险。",
+                "image_url": "static/data/farmework/网络安全和基础设施安全局.png",
+                "structure": []
+            },
+            {
+                "name": "联邦紧急事务管理局",
+                "name_en_abbr": "FEMA",
+                "description": "联邦紧急事务管理局支持我们的公民和急救人员建立、维持和提高我们预防、防范、应对、恢复和减轻所有危害的能力。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "联邦执法培训中心",
+                "name_en_abbr": "FLETC",
+                "description": "联邦执法培训中心为执法专业人员提供职业培训，帮助他们安全、熟练地履行职责。",
+                "image_url": "static/data/farmework/联邦执法培训中心.png",
+                "structure": []
+            },
+            {
+                "name": "美国移民和海关执法局",
+                "name_en_abbr": "ICE",
+                "description": "美国移民和海关执法局通过刑事和民事执行管理边境管制、海关、贸易和移民的联邦法律来促进国土安全和公共安全。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "美国特勤局",
+                "name_en_abbr": "USSS",
+                "description": "USSS负责保卫国家金融基础设施和支付系统，保护国家领导人、来访的国家元首和政府首脑，执行国家特别安全事件。",
+                "image_url": "static/data/farmework/美国特勤局.png",
+                "structure": []
+            },
+            {
+                "name": "运输安全管理局",
+                "name_en_abbr": "TSA",
+                "description": "运输安全管理局保护国家的交通系统以确保人员和商业的自由流动。",
+                "image_url": "static/data/farmework/美国运输安全管理局.png",
+                "structure": []
+            },
+            {
+                "name": "管理部",
+                "name_en_abbr": "MD",
+                "description": "管理部负责预算、财务、人事、采购、信息技术、设施管理、生物特征服务及绩效指标的识别与跟踪。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "科技部",
+                "name_en_abbr": "S&T",
+                "description": "科技部是美国国土安全部的主要研究和开发部门。它为联邦、州和地方官员提供保卫国土的技术和能力。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "反大规模杀伤性武器办公室",
+                "name_en_abbr": "CWMD",
+                "description": "CWMD 致力于通过向行动伙伴提供及时、积极的支持，防止使用大规模杀伤性武器袭击美国。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "情报分析办公室",
+                "name_en_abbr": "OIA",
+                "description": "情报和分析办公室为国土安全部提供及时的情报和信息，以确保国土的安全、稳定和恢复。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "国土安全态势感知办公室",
+                "name_en_abbr": "OSA",
+                "description": "提供运营协调、信息共享、态势感知、通用作战图，并在整个国土安全企业中履行部长的职责。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "卫生安全办公室",
+                "name_en_abbr": "OHS",
+                "description": "OHS 是国土安全部的主要医疗、劳动力健康与安全以及公共卫生管理机构。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "监察员办公室",
+                "name_en_abbr": "OO",
+                "description": "监察员负责分析、报告并向相关机构提出投诉、疑虑和建议，以寻求解决方案。这项工作致力于中立、独立和保密。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": []
+            },
+            {
+                "name": "秘书处",
+                "name_en_abbr": "Sec",
+                "description": "负责监督国土安全部打击恐怖主义和加强安全、保卫和管理边境同时促进贸易和旅行、执行和管理移民法、维护和保障网络空间安全、增强抗灾能力。",
+                "image_url": "static/data/farmework/美国国土安全部.png",
+                "structure": [
+                    {
+                        "name": "公民权利和公民自由办公室",
+                        "name_en_abbr": "CRCL",
+                        "description": "就民权和公民自由问题向部门领导提供法律和政策建议，调查和解决投诉。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "公民及移民服务监察员办公室",
+                        "name_en_abbr": "CISO",
+                        "description": "通过提供个案援助、发现系统性问题及提出建议以改善美国公民及移民服务局的移民福利管理。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "气候变化行动小组",
+                        "name_en_abbr": "CCAG",
+                        "description": "国土安全部气候变化行动小组是一个协调机构，由该部门的高层领导组成，负责推动应对气候危机的紧急行动。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "执行秘书办公室",
+                        "name_en_abbr": "ESEC",
+                        "description": "执行秘书办公室为部长和副部长提供各种直接支持，并为整个部门的领导和管理层提供相关支持。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "移民拘留监察员办公室",
+                        "name_en_abbr": "IDO",
+                        "description": "移民拘留监察员办公室将协助个人投诉国土安全部人员可能违反移民拘留标准或其他不当行为，并对移民拘留设施进行监督。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "家庭团聚工作组",
+                        "name_en_abbr": "FRWG",
+                        "description": "政府致力于让在美国墨西哥边境被不公正分离的家庭安全团聚。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "总法律顾问办公室",
+                        "name_en_abbr": "OGC",
+                        "description": "总法律顾问办公室将整个部门的3000多名律师整合成一个高效、以客户为导向、提供全方位服务的法律团队。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "联合需求委员会",
+                        "name_en_abbr": "JRC",
+                        "description": "通过联合需求集成与管理系统验证与作战需求相关的能力差距，并提出解决方案以缓解这些差距，并更好地为国土安全部的主要投资支柱提供信息。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "立法事务办公室",
+                        "name_en_abbr": "OLA",
+                        "description": "立法事务办公室负责协调与国会的沟通，确保国会获取有关国土安全部政策、行动和目标的准确信息。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "军事顾问办公室",
+                        "name_en_abbr": "MAO",
+                        "description": "军事顾问的主要职责是就国土安全部和国防部之间的政策、程序、准备活动和行动等事务向部长和副部长提供咨询和支持。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name":"伙伴关系和参与办公室",
+                        "name_en_abbr": "PIO",
+                        "description": "伙伴关系和参与部门负责协调国土安全部与全国主要利益相关者的外展工作，确保采取统一的外部参与方式。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name":"隐私办公室",
+                        "name_en_abbr": "PO",
+                        "description": "隐私办公室的使命是在国土安全部的所有活动中嵌入和执行隐私保护和透明度来保护个人。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "公共事务办公室",
+                        "name_en_abbr": "OPA",
+                        "description": "公共事务办公室负责对外沟通，包括新闻发布、社交媒体管理和公众宣传，以确保信息透明和民众参与。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name":"战略、政策和计划办公室",
+                        "name_en_abbr": "SPPO",
+                        "description": "负责进行战略规划和分析，并协助制定可能出现在动态国土安全企业中各种问题的决策。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    },
+                    {
+                        "name":"州和地方执法办公室",
+                        "name_en_abbr": "OSLLE",
+                        "description": "州和地方执法办公室为国土安全部提供州、地方、部落、领土和校园执法的主要协调、联络和宣传。",
+                        "image_url": "static/data/farmework/美国国土安全部.png",
+                        "structure": []
+                    }
+
+                ]
+            }
+        ]
+    },
+    {
+        "name": "国家情报总监办公室",
+        "name_en_abbr": "ODNI",
+        "description": "国家情报总监办公室的使命是领导和支持美国情报体系集成；提供见解、推动能力并投资未来。",
+        "image_url": "static/data/farmework/国家情报总监.png",
+        "structure": [
+            {
+                "name": "理事会",
+                "name_en_abbr": "Directorates",
+                "description": "国家情报总监办公室下属的理事会主要负责任务整合和政策与能力，旨在为情报整合提供更全面的视角和战略方针。",
+                "image_url": "static/data/farmework/国家情报总监.png",
+                "structure": []
+            },
+            {
+                "name": "国家反恐中心",
+                "name_en_abbr": "NCTC",
+                "description": "通过融合国内外反恐信息、提供恐怖主义分析、与整个反恐企业的合作伙伴共享信息以及推动全政府行动来确保我们的国家反恐目标。",
+                "image_url": "static/data/farmework/国家反恐中心.png",
+                "structure": []
+            },
+            {
+                "name": "国家反情报与安全中心",
+                "name_en_abbr": "NCSC",
+                "description": "领导和支持美国政府的反情报和安全活动，向面临外国情报渗透风险的美国私营部门实体提供外联服务；并就美国面临的情报威胁向公众发出警告。",
+                "image_url": "static/data/farmework/国家反情报与安全中心.png",
+                "structure": []
+            },
+            {
+                "name": "国家反扩散和生物安全中心",
+                "name_en_abbr": "NCBC",
+                "description": "领导情报界和跨部门行动，防止大规模杀伤性武器及其运载系统、相关技术和专业知识的扩散。",
+                "image_url": "static/data/farmework/国家反扩散和生物安全中心.png",
+                "structure": []
+            },
+            {
+                "name": "网络威胁情报集成中心",
+                "name_en_abbr": "CTIIC",
+                "description": "领导网络威胁情报的整合，以告知国家利益，支持国家网络政策和规划工作，并协调整个情报部门的网络收集和投资方法。",
+                "image_url": "static/data/farmework/网络威胁情报集成中心.png",
+                "structure": []
+            },
+            {
+                "name": "外国恶意影响中心",
+                "name_en_abbr": "FMIC",
+                "description": "通过管理情报界的收集资源、建立合作伙伴关系和推进战略分析，减轻外国恶意影响对民主和美国国家利益的威胁，同时保护美国人民的隐私和公民自由。",
+                "image_url": "static/data/farmework/外国恶意影响中心.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "白宫办公厅",
+        "name_en_abbr": "White House Office",
+        "description": "协助总统处理日常事务，是总统行政办公室的核心部分，负责协调政策制定、沟通联络等工作",
+        "image_url": "static/data/farmework/白宫办公厅.png",
+        "structure": [
+            {
+                "name": "第一夫人办公厅",
+                "name_en_abbr": "",
+                "description": "负责规划、组织和执行与第一夫人相关的各项活动和事务，协助第一夫人履行其公共职责，提升公众形象",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "政府间事务办公室",
+                "name_en_abbr": "",
+                "description": "负责处理联邦政府与州政府、地方政府之间的关系，促进各级政府间的沟通、协调与合作，推动政策在不同层级政府间的顺利实施和有效衔接",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "联络办公室",
+                "name_en_abbr": "",
+                "description": "作为白宫与外部各类机构、组织及利益相关者的沟通桥梁，负责建立、维护和加强与各方的联系，促进信息的有效传递和交流，以达成共同目标",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "立法事务办公室",
+                "name_en_abbr": "",
+                "description": "专注于协调白宫与国会之间在立法方面的事务，推动总统立法议程的实现，就法案的起草、审议等环节与国会进行沟通、协商和游说",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "总统个人事务办公室",
+                "name_en_abbr": "",
+                "description": "主要负责处理总统个人生活及相关事务安排，确保总统私人生活事务得到妥善处理，使总统能够专注于履行公务职责",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "政治事务办公室",
+                "name_en_abbr": "",
+                "description": "密切关注国内政治动态，为总统提供政治策略和形势分析，协助总统开展政治活动，维护和巩固政治支持基础，提升总统在政治领域的影响力",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "公共联络办公室",
+                "name_en_abbr": "",
+                "description": "致力于搭建白宫与公众之间的沟通桥梁，收集公众意见和反馈，向公众宣传政府政策和工作成果，增强公众对政府工作的理解和支持",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "日程办公室",
+                "name_en_abbr": "",
+                "description": "精心规划和安排总统的日常行程，根据总统的职责和任务需求，合理协调时间、场地和资源，确保总统各项活动高效有序进行",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "特别项目办公室",
+                "name_en_abbr": "",
+                "description": "负责策划、组织和执行总统交办的特定重要项目，对项目的全流程进行管理和监督，确保项目按计划推进并达成预期目标",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "讲话撰写办公室",
+                "name_en_abbr": "",
+                "description": "为总统撰写各类演讲文稿，准确把握总统的观点、政策和风格要求，通过文字表达有效地向公众传达总统的意图和理念",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "国内政策理事会",
+                "name_en_abbr": "",
+                "description": "负责制定、协调和推动国内政策议程，整合各部门资源，就国内事务向总统提供全面的政策建议和决策支持，以实现国内发展目标",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            },
+            {
+                "name": "全国经济理事会",
+                "name_en_abbr": "",
+                "description": "专注于分析国家经济形势，制定经济政策建议，协调政府各部门在经济领域的工作，为总统提供经济决策方面的专业支持，促进经济的稳定和发展",
+                "image_url": "static/data/farmework/白宫办公厅.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "国务院",
+        "name_en_abbr": "Department of State",
+        "description": "主管美国外交事务，负责制定和执行外交政策，代表美国与其他国家进行交往和谈判",
+        "image_url": "static/data/farmework/国务院.png",
+        "structure": [
+            {
+                "name": "管理与行政办公室",
+                "name_en_abbr": "",
+                "description": "协助管理处理日常事务，协调工作安排等",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "情报研究局",
+                "name_en_abbr": "",
+                "description": "开展情报收集、分析和研究，为外交决策提供支持",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "立法事务局",
+                "name_en_abbr": "",
+                "description": "负责与立法相关的事务，包括与国会沟通外交政策立法事宜",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "法务顾问办公室",
+                "name_en_abbr": "",
+                "description": "提供法律专业意见，处理法律相关事务",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "管理国务副国务卿",
+                "name_en_abbr": "",
+                "description": "管理多个事务部门，保障国务院日常运作和资源管理等工作",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "经济发展与能源环境副国务卿",
+                "name_en_abbr": "",
+                "description": "负责经济、商业及农业相关的外交事务处理和政策推动",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "政务副国务卿",
+                "name_en_abbr": "",
+                "description": "第三级重量官员，是国务卿与第一副国务卿缺席或有事时之代理人，负责一系列政治事务单位",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+
+            {
+                "name": "管理副国务卿",
+                "name_en_abbr": "",
+                "description": "次于国务卿的官员，下辖各有专职的六位次卿与多个职务或单位",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "军控与国际安全事务副国务卿",
+                "name_en_abbr": "",
+                "description": "在国务院在美国军事体系中扮演协调角色，负责相关事务处理",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+
+            {
+                "name": "平民安全与民主人权副国务卿",
+                "name_en_abbr": "",
+                "description": "负责民主及全球事务相关工作，推动相关议题在外交政策中的落实",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            },
+            {
+                "name": "公共外交和公共事务副国务卿",
+                "name_en_abbr": "",
+                "description": "负责公共外交及公共事务相关工作，提升美国外交形象和影响力",
+                "image_url": "static/data/farmework/国务院.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "司法部",
+        "name_en_abbr": "DOJ",
+        "description": "负责执行美国法律，维护司法公正，处理各类法律事务，包括犯罪调查、起诉以及法律政策制定等",
+        "image_url": "static/data/farmework/司法部.png",
+        "structure": [
+            {
+                "name": "反托拉斯局",
+                "name_en_abbr": "ATR",
+                "description": "负责执行反垄断法，调查和打击垄断行为，维护公平竞争的市场环境，保障消费者和企业的合法权益，推动经济的健康发展",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "司法统计局",
+                "name_en_abbr": "BJS",
+                "description": "收集、整理、分析和发布美国司法系统相关数据，为司法政策制定、资源分配、执法效果评估等提供数据基础，助力司法体系的优化与完善",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "民事局",
+                "name_en_abbr": "CIV",
+                "description": "代表联邦政府处理各类民事法律事务，包括合同纠纷、侵权诉讼、行政诉讼等，维护政府在民事领域的合法权益，推动司法公正",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "民权局",
+                "name_en_abbr": "CRT",
+                "description": "贯彻执行公民权利相关法律，调查和处理歧视、侵犯公民权利等案件，推动社会公平正义，保障公民基本权利不受侵害",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "刑事局",
+                "name_en_abbr": "CRD",
+                "description": "负责联邦刑事案件的起诉工作，对各类联邦犯罪进行调查和起诉，确保联邦法律的有效执行，维护社会法治秩序",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "麻醉品管制局",
+                "name_en_abbr": "DEA",
+                "description": "专注打击毒品的生产、走私、贩卖、运输等违法犯罪活动，与国内外执法机构合作，切断毒品供应链，减少毒品对社会的危害",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "环境和自然资源局",
+                "name_en_abbr": "ENRD",
+                "description": "处理与环境和自然资源相关的法律事务，执行环境法规，保护自然资源，通过法律手段推动可持续发展，维护生态平衡",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "移民审查执行办公室",
+                "name_en_abbr": "EOIR",
+                "description": "负责对移民相关案件进行审查和裁决，执行移民法律法规，确保移民程序合法、公正，维护美国移民管理秩序",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "联邦监狱管理局",
+                "name_en_abbr": "BOP",
+                "description": "管理和运营联邦监狱系统，负责囚犯的安全监禁、改造教育以及相关设施的管理，促进罪犯的再社会化，降低重新犯罪率",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "国家刑罚协会",
+                "name_en_abbr": "NPA",
+                "description": "专注于刑罚相关研究、交流与推广，为刑罚制度的完善、执行效果的提升提供专业建议和平台，推动刑罚科学发展，促进司法公正与社会安全",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "国际刑警组织--美国国家中央局",
+                "name_en_abbr": "IN-USB",
+                "description": "协调国际执法合作，协助其他国家调查和打击跨国犯罪，维护国际社会的安全与稳定",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "法务计划局",
+                "name_en_abbr": "LPD",
+                "description": "制定和规划法务相关工作，包括法律项目的策划、资源分配以及实施进度监控等，保障法务工作的系统性和有效性",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "法律援助事务局",
+                "name_en_abbr": "LAA",
+                "description": "为经济困难或特殊案件的当事人提供法律援助服务，确保他们能够获得平等的司法保护，维护司法公正和社会公平",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "国家司法研究所",
+                "name_en_abbr": "NIJ",
+                "description": "开展司法领域的科学研究，为司法政策制定、执法实践和司法系统改进提供理论支持和技术解决方案，推动司法科学的发展与创新",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "法律政策办公室",
+                "name_en_abbr": "OLP",
+                "description": "研究和制定法律政策，为司法部的执法行动和法律决策提供政策指导和理论依据，推动法律体系的不断完善和与时俱进",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "法制办公厅",
+                "name_en_abbr": "OLO",
+                "description": "统筹管理司法部的法制建设工作，包括法律法规的起草、修订、解释等，确保司法部工作的合法性和规范性，推动法治建设进程",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "联邦调查局",
+                "name_en_abbr": "FBI",
+                "description": "作为美国主要的联邦执法机构，负责调查各类重大犯罪，包括恐怖主义、间谍活动、有组织犯罪等，维护国家安全和社会稳定",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": [
+                    {
+                        "name": "罪犯司法信息服务部",
+                        "name_en_abbr": "CJIS",
+                        "image_url": "static/data/farmework/司法部.png",
+                        "description": "为罪犯相关的司法工作提供信息支持与服务，可能涵盖罪犯信息的收集、整理、存储与共享，助力司法流程的高效开展和决策的科学性",
+                        "structure": []
+                    },
+                    {
+                        "name": "刑事犯罪科学实验室",
+                        "name_en_abbr": "CCSL",
+                        "image_url": "static/data/farmework/司法部.png",
+                        "description": "运用科学技术手段对刑事犯罪相关的物证、线索等进行分析检验，为案件侦破、证据认定等提供科学依据，提升司法工作的准确性和专业性",
+                        "structure": []
+                    },
+                    {
+                        "name": "中央指纹档案馆",
+                        "name_en_abbr": "CFA",
+                        "image_url": "static/data/farmework/司法部.png",
+                        "description": "存储着近 4700 万个对象的指纹，是世界同类数据库中规模最大的，为犯罪调查、身份识别等提供关键的指纹信息比对资源",
+                        "structure": []
+                    },
+                    {
+                        "name": "尖端人质拯救小组",
+                        "name_en_abbr": "HRT",
+                        "description": "由专业人员组成，具备高超的技能和丰富的经验，专门应对人质危机事件，以最高效、安全的方式解救被劫持人质，保障人质生命安全",
+                        "image_url": "static/data/farmework/司法部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "国家学院",
+                        "name_en_abbr": "NA",
+                        "description": "专门负责培训高级特工，为司法执法工作培养高素质、具备专业技能和知识的人才，提升特工队伍的整体水平和应对复杂任务的能力",
+                        "image_url": "static/data/farmework/司法部.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "美国假释委员会",
+                "name_en_abbr": "USPC",
+                "description": "负责对符合条件的联邦囚犯进行假释审查和决定，监督假释人员的行为，平衡罪犯改造与社会安全的关系，促进罪犯的重新融入社会",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            },
+            {
+                "name": "国际事务办公室",
+                "name_en_abbr": "OIA",
+                "description": "负责处理司法部涉及的国际事务，包括国际司法合作、条约执行、跨境法律问题协调等，提升美国在国际司法领域的影响力和合作水平",
+                "image_url": "static/data/farmework/司法部.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "联邦调查局",
+        "name_en_abbr": "FBI",
+        "description": "作为美国主要的联邦执法机构，负责调查各类重大犯罪，包括恐怖主义、间谍活动、有组织犯罪等，维护国家安全和社会稳定",
+        "image_url": "static/data/farmework/联邦调查局.png",
+        "structure": [
+            {
+                "name": "罪犯司法信息服务部",
+                "name_en_abbr": "CJIS",
+                "image_url": "static/data/farmework/联邦调查局.png",
+                "description": "为罪犯相关的司法工作提供信息支持与服务，可能涵盖罪犯信息的收集、整理、存储与共享，助力司法流程的高效开展和决策的科学性",
+                "structure": []
+            },
+            {
+                "name": "刑事犯罪科学实验室",
+                "name_en_abbr": "CCSL",
+                "image_url": "static/data/farmework/联邦调查局.png",
+                "description": "运用科学技术手段对刑事犯罪相关的物证、线索等进行分析检验，为案件侦破、证据认定等提供科学依据，提升司法工作的准确性和专业性",
+                "structure": []
+            },
+            {
+                "name": "中央指纹档案馆",
+                "name_en_abbr": "CFA",
+                "image_url": "static/data/farmework/联邦调查局.png",
+                "description": "存储着近 4700 万个对象的指纹，是世界同类数据库中规模最大的，为犯罪调查、身份识别等提供关键的指纹信息比对资源",
+                "structure": []
+            },
+            {
+                "name": "尖端人质拯救小组",
+                "name_en_abbr": "HRT",
+                "description": "由专业人员组成，具备高超的技能和丰富的经验，专门应对人质危机事件，以最高效、安全的方式解救被劫持人质，保障人质生命安全",
+                "image_url": "static/data/farmework/联邦调查局.png",
+                "structure": []
+            },
+            {
+                "name": "国家学院",
+                "name_en_abbr": "NA",
+                "description": "专门负责培训高级特工，为司法执法工作培养高素质、具备专业技能和知识的人才，提升特工队伍的整体水平和应对复杂任务的能力",
+                "image_url": "static/data/farmework/联邦调查局.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "美国驻华大使馆",
+        "name_en_abbr": "U.S.Embassy in China",
+        "description": "美国驻华大使馆是美国在中国的外交代表机构，负责两国之间的外交、经济、文化和人员交流。",
+        "image_url": "static/data/farmework/美国驻华大使馆.png",
+        "structure": [
+            {
+                "name": "经济处",
+                "name_en_abbr": "ES",
+                "description": "负责经济政策和贸易事务。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            },
+            {
+                "name": "环境科技处",
+                "name_en_abbr": "ETS",
+                "description": "负责环保和科技领域的合作。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            },
+            {
+                "name": "动植物卫生检疫局",
+                "name_en_abbr": "APHIS",
+                "description": "负责检疫和防止有害动植物进入美国。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            },
+            {
+                "name": "国际发展署",
+                "name_en_abbr": "USAID",
+                "description": "负责美国国际开发援助项目。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            },
+            {
+                "name": "公共服务处（领事处）",
+                "name_en_abbr": "CS",
+                "description": "负责签证申请、美国公民服务及其他领事事务。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": [
+                    {
+                        "name": "签证处",
+                        "name_en_abbr": "VS",
+                        "description": "负责处理美国签证申请及相关事务。",
+                        "image_url": "static/data/farmework/美国驻华大使馆.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "美国公民移民事务局北京办公室",
+                        "name_en_abbr": "USCIS Beijing Office",
+                        "description": "负责处理美国公民及移民事务相关工作。",
+                        "image_url": "static/data/farmework/美国驻华大使馆.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "新闻处",
+                "name_en_abbr": "PO",
+                "description": "负责管理媒体关系和发布新闻信息。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            },
+            {
+                "name": "文化处",
+                "name_en_abbr": "CA",
+                "description": "负责推动文化交流项目。",
+                "image_url": "static/data/farmework/美国驻华大使馆.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "国防部",
+        "name_en_abbr": "DoD",
+        "description": "美国国防部负责领导和管理美国的军事力量，确保国家安全和防务政策的实施。",
+        "image_url": "static/data/farmework/美国国防部.png",
+        "structure": [
+            {
+                "name": "联合作战司令部",
+                "name_en_abbr": "UCC",
+                "description": "负责全球范围内的作战指挥，按地域或职能划分。",
+                "image_url": "static/data/farmework/美国国防部.png",
+                "structure": []
+            },
+            {
+                "name": "管理与行政办公室",
+                "name_en_abbr": "",
+                "description": "",
+                "image_url": "static/data/farmework/美国国防部.png",
+                "structure": []
+            },
+            {
+                "name": "国民警卫队",
+                "name_en_abbr": "NGB",
+                "description": "负责协调州际国民警卫队的事务，支持联邦和州政府的需求。",
+                "image_url": "static/data/farmework/美国国防部.png",
+                "structure": []
+            },
+            {
+                "name": "陆军部",
+                "name_en_abbr": "DA",
+                "description": "负责美国陆军的战略规划与指挥。",
+                "image_url": "static/data/farmework/美国陆军.png",
+                "structure": []
+            },
+            {
+                "name": "海军部",
+                "name_en_abbr": "DN",
+                "description": "负责美国海军和海军陆战队的战略规划与指挥。",
+                "image_url": "static/data/farmework/美国海军.png",
+                "structure": []
+            },
+            {
+                "name": "空军部",
+                "name_en_abbr": "DAF",
+                "description": "负责美国空军的战略规划与指挥。",
+                "image_url": "static/data/farmework/美国空军.png",
+                "structure": []
+            },
+            {
+                "name": "国防机构",
+                "name_en_abbr": "DA",
+                "description": "负责执行国防部的具体职能，提供支持和服务。",
+                "image_url": "static/data/farmework/美国国防部.png",
+                "structure": [
+                    {
+                        "name": "国防高级研究计划局",
+                        "name_en_abbr": "DARPA",
+                        "description": "负责推动国防技术的研究和发展。",
+                        "image_url": "static/data/farmework/国防高级研究计划局.jpg",
+                        "structure": []
+                    },
+                    {
+                        "name": "国防情报局",
+                        "name_en_abbr": "DIA",
+                        "description": "负责情报收集和分析，确保美国的防务安全。",
+                        "image_url": "static/data/farmework/国防情报局.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "国防后勤支持局",
+                        "name_en_abbr": "DLA",
+                        "description": "负责提供后勤支持，确保国防物资供应。",
+                        "image_url": "static/data/farmework/国防后勤支持局.jpg",
+                        "structure": []
+                    },
+                    {
+                        "name": "国家安全局",
+                        "name_en_abbr": "NSA",
+                        "description": "专门负责收集和分析外国及本国通讯资料。",
+                        "image_url": "static/data/farmework/国家安全局.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "国家侦察局",
+                        "name_en_abbr": "NRO",
+                        "description": "负责为美国政府设计、组装并发射侦察卫星。",
+                        "image_url": "static/data/farmework/国家侦察局.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "国家地理空间情报局",
+                        "name_en_abbr": "NGA",
+                        "description": "为国家安全而收集、分析并发布地理情报的机构。",
+                        "image_url": "static/data/farmework/国家地理空间情报局.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "参谋长联席会议",
+                "name_en_abbr": "JCS",
+                "description": "负责为总统和国防部长提供军事建议，协调各军种的作战计划。",
+                "image_url": "static/data/farmework/参谋长联席会议.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "美国共和党组织",
+        "name_en_abbr": "RPO",
+        "description": "美国共和党组织包括党内的各级委员会和相关机构，负责党务管理、政策研究、选举协调等事务。",
+        "image_url": "static/data/farmework/美国共和党全国委员会.png",
+        "structure": [
+            {
+                "name": "共和党海外事务组织",
+                "name_en_abbr": "ROAO",
+                "description": "负责协调共和党在海外的事务与活动。",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            },
+            {
+                "name": "众议院共和党会议",
+                "name_en_abbr": "HRC",
+                "description": "负责组织和协调美国国会众议院共和党议员的工作。",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            },
+            {
+                "name": "共和党研究委员会",
+                "name_en_abbr": "RPC",
+                "description": "专注于为党内政策研究和提出解决方案。",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            },
+            {
+                "name": "共和党全国委员会",
+                "name_en_abbr": "RNC",
+                "description": "统领各地的共和党组织，制定党的政策纲领，举行宣传活动、筹款、进行选举活动等内容",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            },
+            {
+                "name": "国际共和学会",
+                "name_en_abbr": "IRI",
+                "description": "促进全球范围内民主和自由，支持共和党的国际合作。",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            },
+            {
+                "name": "自由核心小组",
+                "name_en_abbr": "FC",
+                "description": "自由核心小组是由美国国会中的保守派共和党议员组成的组织，主张强硬的自由市场和小政府政策。",
+                "image_url": "static/data/farmework/美国共和党全国委员会.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "美国贸易代表办公室",
+        "name_en_abbr": "USTR",
+        "description": "美国贸易代表办公室负责制定和协调美国的贸易政策，协调国际贸易谈判。",
+        "image_url": "static/data/farmework/美国贸易代表办公室.png",
+        "structure": [
+            {
+                "name": "贸易政策审议工作组",
+                "name_en_abbr": "TPRG",
+                "description": "负责召集联邦政府20多个机构的人员审查贸易政策和谈判文件，协调政策差异。",
+                "image_url": "static/data/farmework/美国贸易代表办公室.png",
+                "structure": []
+            },
+            {
+                "name": "贸易政策委员会",
+                "name_en_abbr": "TPSC",
+                "description": "负责提出解决联邦机构间政策差异的建议，确保达成共识。",
+                "image_url": "static/data/farmework/美国贸易代表办公室.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "联邦贸易委员会",
+        "name_en_abbr": "FTC",
+        "description": "联邦贸易委员会是美国政府的一个独立机构，主要负责监管和促进商业竞争，保护消费者免受不公平的商业行为侵害。其职能包括调查反垄断行为、执行消费者保护法以及监管广告、数据隐私等领域的合规性。联邦贸易委员会由五名成员组成，每位成员由总统提名，经过参议院确认。",
+        "image_url": "static/data/farmework/美国联邦贸易委员会.png",
+        "structure": [
+            {
+                "name": "反垄断局",
+                "name_en_abbr": "AB",
+                "description": "负责调查反垄断案件，促进公平竞争，防止市场垄断。",
+                "image_url": "static/data/farmework/美国联邦贸易委员会.png",
+                "structure": []
+            },
+            {
+                "name": "消费者保护局",
+                "name_en_abbr": "CPB",
+                "description": "负责保护消费者免受欺诈、不公正或虚假的商业行为侵害。",
+                "image_url": "static/data/farmework/美国联邦贸易委员会.png",
+                "structure": []
+            },
+            {
+                "name": "法律顾问办公室",
+                "name_en_abbr": "OLC",
+                "description": "负责提供法律意见，支持委员会决策过程中的法律事务。",
+                "image_url": "static/data/farmework/美国联邦贸易委员会.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "科技和技术办公室",
+        "name_en_abbr": "OSTP",
+        "description": "科技和技术办公室是美国白宫下设的一个机构，负责指导和制定国家科技和技术政策。OSTP的主要职能包括提供政策建议、推动创新研究、促进科技发展和提高美国在全球科技竞争中的地位。",
+        "image_url": "static/data/farmework/科技和技术办公室.png",
+        "structure": [
+            {
+                "name": "政策分析与战略部",
+                "name_en_abbr": "PAS",
+                "description": "负责分析国内外科技发展趋势，并为总统提供战略建议。",
+                "image_url": "static/data/farmework/科技和技术办公室.png",
+                "structure": []
+            },
+            {
+                "name": "技术创新与发展部",
+                "name_en_abbr": "TID",
+                "description": "推动美国科技创新，支持新兴技术和科研领域的发展。",
+                "image_url": "static/data/farmework/科技和技术办公室.png",
+                "structure": []
+            },
+            {
+                "name": "国际科技合作部",
+                "name_en_abbr": "ISC",
+                "description": "负责促进美国与其他国家在科技领域的合作。",
+                "image_url": "static/data/farmework/科技和技术办公室.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "商务部",
+        "name_en_abbr": "DOC",
+        "description": "美国商务部负责促进美国经济增长、创造就业机会、促进商业竞争等。商务部的职能涵盖了广泛的领域，包括国际贸易、技术创新、经济统计、商务政策等。",
+        "image_url": "static/data/farmework/美国商务部.png",
+        "structure": [
+            {
+                "name": "国际贸易局",
+                "name_en_abbr": "ITA",
+                "description": "负责管理美国的国际贸易政策和商业交易，促进美国企业的全球竞争力。",
+                "image_url": "static/data/farmework/美国商务部.png",
+                "structure": [
+                    {
+                        "name": "全球市场分析部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国商务部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "外贸服务与支持部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国商务部.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "经济分析局",
+                "name_en_abbr": "BEA",
+                "description": "负责收集和发布美国的经济数据，并为政府决策提供经济分析。",
+                "image_url": "static/data/farmework/美国商务部.png",
+                "structure": []
+            },
+            {
+                "name": "国家标准与技术研究院",
+                "name_en_abbr": "NIST",
+                "description": "负责制定和推动技术和行业标准的统一，支持技术创新和研发。",
+                "image_url": "static/data/farmework/美国商务部.png",
+                "structure": []
+            }
+        ]
+    },
+    {
+        "name": "内政部",
+        "name_en_abbr": "DOI",
+        "description": "美国内政部是美国政府的一个重要部门，负责管理和保护美国的公共土地、自然资源和文化遗产。内政部的职能包括管理国家公园、监督水资源、矿产资源的开采、以及推动原住民事务等。",
+        "image_url": "static/data/farmework/美国内政部.png",
+        "structure": [
+            {
+                "name": "国家公园管理局",
+                "name_en_abbr": "NPS",
+                "description": "负责管理美国的国家公园、纪念碑、历史遗址等公共土地。",
+                "image_url": "static/data/farmework/美国内政部.png",
+                "structure": [
+                    {
+                        "name": "公园保护与维护部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国内政部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "游客服务和教育部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国内政部.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "地质调查局",
+                "name_en_abbr": "USGS",
+                "description": "负责对美国的矿产资源、水资源和地质情况进行研究与管理。",
+                "image_url": "static/data/farmework/美国内政部.png",
+                "structure": [
+                    {
+                        "name": "地质勘探与监测部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国内政部.png",
+                        "structure": []
+                    },
+                    {
+                        "name": "自然资源开发管理部门",
+                        "name_en_abbr": "",
+                        "description": "",
+                        "image_url": "static/data/farmework/美国内政部.png",
+                        "structure": []
+                    }
+                ]
+            },
+            {
+                "name": "印度事务局",
+                "name_en_abbr": "BIA",
+                "description": "负责与美国的原住民部落和地区进行政策协调和管理。",
+                "image_url": "static/data/farmework/美国内政部.png",
+                "structure": []
+            }
+        ]
+    }
+]

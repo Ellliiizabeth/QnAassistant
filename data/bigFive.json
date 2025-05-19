@@ -1,0 +1,121 @@
+{
+    "迈克尔·克拉西奥斯": {
+        "neuroticism": 1,
+        "openness": 1,
+        "conscientiousness": 0.8958333333333334,
+        "extroversion": 1,
+        "agreeableness": 1
+    },
+    "詹姆斯·戴维·万斯": {
+        "neuroticism": 0.9476923076923077,
+        "openness": 0.9907692307692307,
+        "conscientiousness": 0.36,
+        "extroversion": 0.8584615384615385,
+        "agreeableness": 0.5846153846153846
+    },
+    "霍华德·卢特尼克": {
+        "neuroticism": 0.900990099009901,
+        "openness": 0.995049504950495,
+        "conscientiousness": 0.3069306930693069,
+        "extroversion": 0.8712871287128713,
+        "agreeableness": 0.48514851485148514
+    },
+    "安德鲁·弗格森": {
+        "neuroticism": 0.9714285714285714,
+        "openness": 1,
+        "conscientiousness": 0.26666666666666666,
+        "extroversion": 0.8476190476190476,
+        "agreeableness": 0.4380952380952381
+    },
+    "道格拉斯·詹姆斯·伯古姆": {
+        "neuroticism": 0.9395973154362416,
+        "openness": 0.9932885906040269,
+        "conscientiousness": 0.28859060402684567,
+        "extroversion": 0.8523489932885906,
+        "agreeableness": 0.5838926174496645
+    },
+    "杰米森·格里尔": {
+        "neuroticism": 0.9090909090909091,
+        "openness": 1,
+        "conscientiousness": 0.22727272727272727,
+        "extroversion": 0.6818181818181818,
+        "agreeableness": 0.36363636363636365
+    },
+    "卡什·帕特尔": {
+        "neuroticism": 0.900523560209424,
+        "openness": 0.9790575916230366,
+        "conscientiousness": 0.43455497382198954,
+        "extroversion": 0.8900523560209425,
+        "agreeableness": 0.5706806282722513
+    },
+    "马尔科·鲁比奥": {
+        "neuroticism": 0.8763060549029787,
+        "openness": 0.9807255500032449,
+        "conscientiousness": 0.3298721526380687,
+        "extroversion": 0.7874618729314037,
+        "agreeableness": 0.49055746641573106
+    },
+    "皮特·海格塞斯": {
+        "neuroticism": 0.9104477611940298,
+        "openness": 0.991180461329715,
+        "conscientiousness": 0.296472184531886,
+        "extroversion": 0.8670284938941656,
+        "agreeableness": 0.5569877883310719
+    },
+    "唐纳德·特朗普": {
+        "neuroticism": 0.9484304932735426,
+        "openness": 0.9960762331838565,
+        "conscientiousness": 0.2825112107623318,
+        "extroversion": 0.850896860986547,
+        "agreeableness": 0.312219730941704
+    },
+    "戴维·珀杜": {
+        "neuroticism": 0.8928571428571429,
+        "openness": 0.9642857142857143,
+        "conscientiousness": 0.21428571428571427,
+        "extroversion": 0.8571428571428571,
+        "agreeableness": 0.75
+    },
+    "帕姆·邦迪": {
+        "neuroticism": 0.9295470884255931,
+        "openness": 0.99568655643422,
+        "conscientiousness": 0.28324946081955427,
+        "extroversion": 0.8720345075485263,
+        "agreeableness": 0.5650611071171819
+    },
+    "丹·斯卡维诺": {
+        "neuroticism": 0.9387306817290343,
+        "openness": 0.9967051070840197,
+        "conscientiousness": 0.17808111712559818,
+        "extroversion": 0.8928375303993097,
+        "agreeableness": 0.6433670667608065
+    },
+    "埃隆·马斯克": {
+        "neuroticism": 0.9560648391076823,
+        "openness": 0.9967523719030533,
+        "conscientiousness": 0.14320763547147333,
+        "extroversion": 0.9009969792804163,
+        "agreeableness": 0.39090664132854935
+    },
+    "克丽丝蒂·诺姆": {
+        "neuroticism": 0.8825891423064568,
+        "openness": 0.9741407002891102,
+        "conscientiousness": 0.3368133633151301,
+        "extroversion": 0.8107934468358496,
+        "agreeableness": 0.5110825570189528
+    },
+    "凯文·麦卡锡": {
+        "neuroticism": 0.9010055232969835,
+        "openness": 0.9849879620450361,
+        "conscientiousness": 0.33076051550771846,
+        "extroversion": 0.7900439031298683,
+        "agreeableness": 0.49844214700467354
+    },
+    "塔尔西·加巴德": {
+        "neuroticism": 0.9011425732737208,
+        "openness": 0.9899652260307998,
+        "conscientiousness": 0.2877297565822156,
+        "extroversion": 0.8279185295578738,
+        "agreeableness": 0.47799304520616
+    }
+}

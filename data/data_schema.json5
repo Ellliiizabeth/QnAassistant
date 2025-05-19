@@ -1,0 +1,117 @@
+{
+  "recent_activities.json": {
+    description: "所有关键人物的近期活动",
+    fields: {
+      activity: "活动名称，5到25个字",
+      person: "关键人物名字，中文，必须是 persons.json 中的一个",
+      begin_time: "活动开始时间，格式为 YYYY-MM-DD",
+      end_time: "活动结束时间，格式为 YYYY-MM-DD",
+      from: "启程地点，格式“国家名-城市”，城市必须在 cities.json 中",
+      to: "活动地点，格式“国家名-城市”，城市必须在 cities.json 中",
+      from_latitude: "启程地点纬度",
+      from_longitude: "启程地点经度",
+      to_latitude: "活动地点纬度",
+      to_longitude: "活动地点经度"
+    }
+  },
+  "persons.json": {
+    description: "所有关键人物的基本信息，静态数据，人工采集",
+    fields: {
+      name_ch: "中文名",
+      name_en: "英文名",
+      age: "年龄",
+      gender: "性别：男、女、跨性别",
+      race: "种族：白人、非裔、拉丁裔、亚裔、西班牙裔",
+      party: "政党：共和党、民主党、其他党派",
+      born_state: "出生州",
+      prev_occupation: "任命前职业：记者、政客、军人、商人等",
+      prev_position: "任命前职务",
+      new_position: "提名职务",
+      active_state: "主要活动州",
+      online_activity_level: "网络活跃度（数值）",
+      seniority: "资历：初级、高级、资深",
+      life_experience: "重要生平经历（数组，包含年份和事件）"
+    }
+  },
+  "network.json": {
+    description: "所有关键人物的社交网络结构，静态数据",
+    fields: {
+      nodes: "社交节点数组，包含人物名称",
+      edges: "社交连接数组，包含 source 和 target 字段"
+    }
+  },
+  "recent_news.json": {
+    description: "近期（最近60天）的news.json里的每个人物的数据",
+    fields: {
+      title: "中文新闻标题",
+      time: "新闻时间（YYYY-MM-DD）",
+      person: "涉及人物（中文名）",
+      url: "新闻原始链接",
+      source: "新闻来源"
+    }
+  },
+  "news.json": {
+    description: "每日查询出的每个人的前10条新闻的汇总数据",
+    fields: {
+      title: "中文新闻标题",
+      time: "新闻时间（YYYY-MM-DD）",
+      person: "涉及人物（中文名）",
+      url: "新闻原始链接",
+      source: "新闻来源"
+    }
+  },
+  "news_num.json": {
+    description: "记录当日搜索出来的关键人物的新闻的总数",
+    fields: {
+      data: "日期",
+      num: "新闻数量"
+    }
+  },
+  "recent_remarks.json": {
+    description: "关键人物近期言论，人工收集",
+    fields: {
+      remark_en: "英文原文言论",
+      remark: "中文翻译言论",
+      time: "言论时间",
+      uid: "言论发布者 ID",
+      person: "关联人物（中文名）",
+      url: "来源链接",
+      source: "媒体来源"
+    }
+  },
+  "bigFive.json": {
+    description: "所有关键人物的大五码人格得分（0-1 之间的数值）",
+    fields: {
+      neuroticism: "神经质",
+      openness: "开放性",
+      conscientiousness: "责任心",
+      extroversion: "外向性",
+      agreeableness: "宜人性"
+    }
+  },
+  "values.json": {
+    description: "所有关键人物的政治价值观",
+    fields: {
+      博爱: "博爱",
+      仁慈: "仁慈",
+      友善: "友善",
+      传统: "传统",
+      安全: "安全",
+      权力: "权力",
+      成就: "成就",
+      享乐: "享乐主义",
+      刺激: "刺激",
+      自我: "自我"
+    }
+  },
+  "departments.json": {
+    description: "涉及的政府部门及其结构信息",
+    fields: {
+      name: "中文名",
+      name_en_abbr: "英文名称或缩写",
+      description: "描述信息",
+      image_url: "图片地址",
+      structure: "嵌套子结构（递归结构）"
+    }
+  }
+}
