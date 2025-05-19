@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: qna-api
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
+    autoDeploy: true
+    region: oregon
+    plan: free
+    envVars:
+      - key: ARK_API_KEY
+        value: your-ark-api-key-here
+      - key: ARK_BASE_URL
+        value: https://your-base-url-here
